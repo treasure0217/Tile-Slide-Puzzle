@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.keyboard {
+	@apply flex aspect-square w-full items-center justify-center border border-black;
+}
