@@ -29,7 +29,7 @@ This project is a simplified version of the classic "Tile Slide" puzzle game. Th
 - A reset function is implemented to shuffle the tiles into a solvable state before starting the game.
 
 ## Author
-[Vasyl Dzinevskyi]
+Vasyl Dzinevskyi
 
 ## Acknowledgements
 This project is a coding challenge submission for <strong>`BehaviorAgent.com`</strong>. Special thanks to <strong>`John Barrera`</strong> for providing the challenge.
